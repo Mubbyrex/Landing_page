@@ -3,7 +3,7 @@
 ### Links
 
 - Solution URL: github.com/Mubbyrex/Landing_page
-- Live Site URL:landing-page-fem.netlify.app
+- Live Site URL: https://landing-page-fem.netlify.app
 
 ### Built with
 
